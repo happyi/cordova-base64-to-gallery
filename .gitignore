@@ -8,3 +8,6 @@
 # Editors
 *.sublime-project
 *.sublime-workspace
+.idea
+cordova-base64-to-gallery.iml
+package-lock.json
